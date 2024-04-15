@@ -4,6 +4,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
  <h2>Aqui está um resumo das funcionalidades que desenvolvemos: </h2>
  
 <p>🔹 Sistema de Chats: Facilitando a comunicação entre responsáveis, professores e demais membros da instituição.</p><br>
