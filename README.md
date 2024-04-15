@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+</p><br>
 
 
  <h2>Aqui está um resumo das funcionalidades que desenvolvemos: </h2>
@@ -17,7 +17,7 @@
 <p>🔹 Área de Ajuda: Um recurso essencial para orientar os usuários em todas as funcionalidades do sistema, garantindo uma experiência fluida e amigável.</p><br>
 
 
-<a href="https://drive.google.com/file/d/1DBAYkA6wOqeF2GK76amZQlqKPr2QMNnD/view?usp=sharing"><h3> ASSISTIR A RESULTADO </h3> </a>
+<a href="https://drive.google.com/file/d/1DBAYkA6wOqeF2GK76amZQlqKPr2QMNnD/view?usp=sharing"><h3> ASSISTIR A RESULTADO </h3></a>
 
 ## Passos para iniciar o site Skedoo - Contribuidores
 
