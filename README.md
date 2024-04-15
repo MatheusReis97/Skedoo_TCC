@@ -17,7 +17,8 @@
 <p>🔹 Área de Ajuda: Um recurso essencial para orientar os usuários em todas as funcionalidades do sistema, garantindo uma experiência fluida e amigável.</p><br>
 
 
-<a href="https://drive.google.com/file/d/1DBAYkA6wOqeF2GK76amZQlqKPr2QMNnD/view?usp=sharing"><h3> ASSISTIR A RESULTADO </h3></a>
+[ASSISTIR A RESULTADO](https://drive.google.com/file/d/1DBAYkA6wOqeF2GK76amZQlqKPr2QMNnD/view?usp=sharing)
+
 
 ## Passos para iniciar o site Skedoo - Contribuidores
 
