@@ -22,7 +22,6 @@
 
 
 
-
 ## Passos para iniciar o site Skedoo - Contribuidores
 
 - **(Baixe o arquivo .env e coloque o nome do banco de dados da Skedoo)**
